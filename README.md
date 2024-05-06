@@ -1,4 +1,4 @@
-# IMIR-Net-DSP
+# IMIR-Net
 This is the official implementation (based on PyTorch) of our paper "Ingredient-guided Multi-modal Interaction and Refinement Network for RGB-D Food Nutrition Assessment" (Submitted to Digital Signal Processing).
 Including code, models, and log file.
 
