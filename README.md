@@ -10,6 +10,8 @@ Including code, models, and log file.
 - [data with dish grounding](https://pan.baidu.com/s/1VzYF3wWGLrYJHH4liUEhDw?pwd=14x6)
 - [pre-trained model on Nutrition5k dataset](https://pan.baidu.com/s/1x-TSXCddzoZjALfB0rIamQ?pwd=hz1e)
 - [Ingredient feature extracted from CLIP text encoder](https://pan.baidu.com/s/159EDLOwMtHj549Cjube0YA?pwd=7f4d)
+fine-tune OFA dish lists (Nutrition5k): dish lists for fine-tune OFA visual grounding mdoel.
+
 
 ## Train
 python train_rgbd.py
